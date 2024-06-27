@@ -3,7 +3,7 @@
 </h1>
 
 <p>
-  With this, I learnt how to work with data to create different charts, graphs, hover elements to create a dynamic and attractive data visualization.
+  With this, I learnt how to work with data to create different charts, graphs, hover elements to create a dynamic data visualization.
 </p>
 
 ## Steps
